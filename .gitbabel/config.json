@@ -1,0 +1,10 @@
+{
+   "version": "1.0",
+   "topics": { 
+      "mapping": {
+        "rfc":["docs/"]
+      }
+   },
+   "collections": []
+}
+
